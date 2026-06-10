@@ -22,7 +22,8 @@ A modern and responsive weather application that provides real-time weather info
 
 ## 📸 Preview
 
-![Weather App Preview](preview.png)
+<img width="1835" height="968" alt="image" src="https://github.com/user-attachments/assets/45bf9c0e-0a84-4dc2-9ea0-a240a2164b0b" />
+
 
 ## 🚀 Getting Started
 
